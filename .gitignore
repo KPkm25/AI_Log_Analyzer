@@ -3,3 +3,4 @@ venv/
 .myenv/
 myenv\Scripts\
 myenv
+__pycache__
